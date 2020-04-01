@@ -28,5 +28,5 @@
 
 如下：
 
-
+![效果图](https://raw.githubusercontent.com/proton991/SOFT130002_lab/master/lab4/images/sample.png)
 
