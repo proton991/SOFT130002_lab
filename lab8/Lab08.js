@@ -10,6 +10,13 @@ var timer = null;
 var container = document.querySelector(".container");
 var dots = document.getElementsByTagName("span");
 var index = 0;
+var tableCss = {
+    position: "relative",
+    width: "600px",
+    margin:"100px auto 0 auto"
+};
+$("table").css(tableCss);
+
 /*********************************************end*************************************/
 
 
@@ -152,9 +159,12 @@ for (let i = 0, len = dots.length; i < len; i++){
 /*Code Here*/
 $('table td').click(function(){
     if(!$(this).is('.input')){
-        $(this).addClass('input').html('<input type="text" value="'+ $(this).text() +'" />').find('input').focus().blur(function(){
+        let w = $(this).width();
+        let tmp_css = {width: w+"px"};
+        $(this).addClass('input').html('<input type="text" value="'+ $(this).text() +'"/>').css(tmp_css).find('input').focus().blur(function(){
             $(this).parent().removeClass('input').html($(this).val() || 0);
         });
     }
 });
+
 /*********************************************end*************************************/
