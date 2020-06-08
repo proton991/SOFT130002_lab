@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5d63b14-d10f-495d-8f20-fccbd806a526" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab10/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10/lab10-exercise7-mysqli.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10/lab10-exercise7-mysqli.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10/lab10-exercise7-pdo.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10/lab10-exercise7-pdo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10/lab10-exercise8.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10/lab10-exercise8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab10/lab10-exercise9.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab10/lab10-exercise9.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab11-exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab11-exercise1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab11-exercise1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/lab11-exercise1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/Lab08.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/Lab08.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/Lab08.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/Lab08.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab9/lab9-exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab9/lab9-exercise1.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aliyun" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aliyun" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aliyun" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="weblab10: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="e51ac6cd-d214-4f9c-8218-a98d2158e7cb">
+        <node key="weblab10" />
+      </node>
+    </checked>
+    <expanded>
+      <node key="e51ac6cd-d214-4f9c-8218-a98d2158e7cb" />
+    </expanded>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1cz9F41qlgYi4f9HwoICziRET7U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../webLabs/SOFT130002_lab/lab10" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunManager">
+    <configuration name="lab11" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="63342">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="aliyun: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="aliyun: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@46cda956" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="aliyun: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@a96bc8d" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5d63b14-d10f-495d-8f20-fccbd806a526" name="Default Changelist" comment="" />
+      <created>1591520447908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591520447908</updated>
+      <workItem from="1591520449101" duration="582000" />
+      <workItem from="1591542388868" duration="2269000" />
+      <workItem from="1591577206079" duration="3186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="100" key="#CLI_Interpreters" timestamp="1591520506553">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="306" y="100" key="#CLI_Interpreters/0.23.1440.825@0.23.1440.825" timestamp="1591520506553" />
+    <state x="552" y="178" key="#SQL_Dialects" timestamp="1591583752823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#SQL_Dialects/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1591583752823" />
+    <state x="244" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591583800403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="244" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1591583800403" />
+    <state x="183" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1591520820781" />
+    <state x="741" y="211" key="ExecutionTargetDialog" timestamp="1591582098767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="211" key="ExecutionTargetDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1591582098767" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591542468242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1591542468242" />
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom" timestamp="1591582098776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1591582098776" />
+    <state width="930" height="202" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1591520879508" />
+    <state width="1293" height="282" key="GridCell.Tab.0.center" timestamp="1591582098776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1591582098776" />
+    <state width="930" height="202" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1591520879508" />
+    <state width="1293" height="282" key="GridCell.Tab.0.left" timestamp="1591582098775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1591582098775" />
+    <state width="930" height="202" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1591520879508" />
+    <state width="1293" height="282" key="GridCell.Tab.0.right" timestamp="1591582098776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1591582098776" />
+    <state width="930" height="202" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1591520879508" />
+    <state width="324" height="577" key="HiddenNamespacesPopup" timestamp="1591546031662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="324" height="577" key="HiddenNamespacesPopup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1591546031662" />
+    <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1440.825@0.23.1440.825" timestamp="1591520711348" />
+    <state x="776" y="443" key="NewPhpFileDialog" timestamp="1591584064402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1591584064402" />
+    <state x="220" y="77" key="SettingsEditor" timestamp="1591520534235">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="220" y="77" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1591520534235" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1591577206597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1591577206597" />
+    <state x="-1646" y="15" width="1662" height="717" maximized="true" key="dock-window-1" timestamp="1591582136863">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1646" y="15" width="1662" height="717" maximized="true" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1591582136863" />
+  </component>
+</project>
